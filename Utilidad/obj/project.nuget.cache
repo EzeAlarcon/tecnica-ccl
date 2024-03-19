@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ImU4Z1rw5cghQHxHovLdnEjBGWURQ4Jyz9bWeei70a2lcXCrVn1lxd3EDem65wo2p4jSJKi0juT5cCiSmsckrA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alarc\\Desktop\\CCL-TECNICA\\Utilidad\\Utilidad.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alarc\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.17\\microsoft.windowsdesktop.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\alarc\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.17\\microsoft.netcore.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\alarc\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.17\\microsoft.aspnetcore.app.ref.7.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
