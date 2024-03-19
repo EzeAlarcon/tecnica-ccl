@@ -57,8 +57,47 @@ como se evidencia en el apartado grafico se puede buscar por fecha o por numero 
 
 # Ejecucion del programa 
 
+* paso 1
 
+Extraer CCL-TECNICA una vez estraido veras algo asi 
 
+![image](https://github.com/EzeAlarcon/tecnica-ccl/assets/138638611/aa132e8f-eb32-4450-88f7-306a3e00294e)
+
+comp podran ver hay una flecha indicando al archivo SistemaVentaAngular dento de el encontraran  la siguinte estructura 
+
+![image](https://github.com/EzeAlarcon/tecnica-ccl/assets/138638611/b4694f34-cded-4bee-97f0-4619a05b2a89)
+
+dentro de 
+
+![image](https://github.com/EzeAlarcon/tecnica-ccl/assets/138638611/f322c50d-760a-4c2d-8cf0-f21e2615a94a)
+
+ingresamos y veremos la siguinete estructura 
+
+![image](https://github.com/EzeAlarcon/tecnica-ccl/assets/138638611/a7724fa6-ee4d-4406-9af8-ef423108d8c3)
+
+una vez a dentro en el apartado superior pondras cmd para que te abra la terminal ya iniadop en el directorio raiz 
+
+# Importante instalar dependencias necesarias con npm i p yarn install 
+
+y ejecutar con npm start o yarn start para que en segundo plano ejecute lo que es el servicio del front te debera aparecer algo asi 
+
+![image](https://github.com/EzeAlarcon/tecnica-ccl/assets/138638611/35ae0579-82a1-4c1c-b02d-0b6f62aafece)
+
+ya para finalizar ejecutares nuestra api en C# 
+
+![image](https://github.com/EzeAlarcon/tecnica-ccl/assets/138638611/3b796dbf-8f6b-43f4-9ae8-b2cf57f4ae16)
+
+una vez lo ejecutamos nos abrira una ventana en donde nos indicara que va a ejecutar la version mas actual oprimimos si y una vez este se ejecutara y nos llevara de manera directa al sistema web del miniinventario
+
+# importante 
+
+No olvidar la cadena de conexon esta la encuentras en el archivo appsettings.json 
+
+![image](https://github.com/EzeAlarcon/tecnica-ccl/assets/138638611/1e8301f9-4fcf-4446-baf5-f7c587a6943f)
+
+# Resultado Final
+
+![image](https://github.com/EzeAlarcon/tecnica-ccl/assets/138638611/db28b169-bc8d-47ad-9b50-5ef3a047a074)
 
 
 
