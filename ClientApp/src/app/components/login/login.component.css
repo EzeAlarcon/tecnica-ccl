@@ -1,0 +1,32 @@
+.body {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-image: url('src/img/img-ccl-tecnica.jpg');
+  background-size: cover;
+  background-position: center;
+}
+
+
+.loginCard {
+  max-width: 328px !important;
+  margin: 2em auto;
+  text-align: center;
+  max-height: 600px;
+}
+
+.header {
+  text-align: center;
+}
+
+.full-width {
+  width: 80%;
+}
+
+
+
+
+
