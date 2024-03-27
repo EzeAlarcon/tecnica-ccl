@@ -4,6 +4,12 @@ se cumplen con los criterios tecnicos de un minisistema de inventario
 
 le agrege un componete extra que fue un login como lo pueden apreciar en la ilustracion grafica se tuvo en cuenta los colores institucionales de CCL
 
+![image](https://github.com/EzeAlarcon/tecnica-ccl/assets/138638611/aab69bb6-ac14-4673-a1ca-3b6b62f2ff3e)
+
+![image](https://github.com/EzeAlarcon/tecnica-ccl/assets/138638611/258278f8-0960-401c-be77-8547a97b4254)
+
+
+
 ![image](https://github.com/EzeAlarcon/tecnica-ccl/assets/138638611/21d28e1c-8790-43d6-9580-c153ca97a1ec)
 
 en funcion se muestra de forma grafica la aplicion web en funcionalidad 
