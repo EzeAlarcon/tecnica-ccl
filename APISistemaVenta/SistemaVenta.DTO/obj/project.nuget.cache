@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "9/wfVlKfQhC0RsfJW0dSifRiuz2mIT72XhG4KbtZ0IvzeABP7d888oX5iMGUOjMynjg/5fbe/YnkdZIRbAEu7A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\victo\\OneDrive\\Escritorio\\091_Curso de Sistema Venta Angular\\APISistemaVenta\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\victo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.17\\microsoft.windowsdesktop.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\victo\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.17\\microsoft.netcore.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\victo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.17\\microsoft.aspnetcore.app.ref.7.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

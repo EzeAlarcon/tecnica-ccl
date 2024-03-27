@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\SistemaVenta.API",
+    "\\SistemaVenta.DAL",
+    "\\SistemaVenta.DAL\\DBContext",
+    "\\SistemaVenta.Model"
+  ],
+  "PreviewInSolutionExplorer": false
+}
