@@ -63,47 +63,63 @@ como se evidencia en el apartado grafico se puede buscar por fecha o por numero 
 
 # Ejecucion del programa 
 
-* paso 1
+## paso 1 
 
-Extraer CCL-TECNICA una vez estraido veras algo asi 
+copia el repositorio 
 
-![image](https://github.com/EzeAlarcon/tecnica-ccl/assets/138638611/aa132e8f-eb32-4450-88f7-306a3e00294e)
+![image](https://github.com/EzeAlarcon/tecnica-ccl/assets/138638611/63dd00d6-7d56-44db-a9ea-a040908c9bb6)
 
-comp podran ver hay una flecha indicando al archivo SistemaVentaAngular dento de el encontraran  la siguinte estructura 
+## paso 2 
 
-![image](https://github.com/EzeAlarcon/tecnica-ccl/assets/138638611/b4694f34-cded-4bee-97f0-4619a05b2a89)
+clonar el repositorio  en tu cmd o terminal linux
 
-dentro de 
+![image](https://github.com/EzeAlarcon/tecnica-ccl/assets/138638611/f85e9bae-ba89-44e0-96e9-fca23e91803c)
 
-![image](https://github.com/EzeAlarcon/tecnica-ccl/assets/138638611/f322c50d-760a-4c2d-8cf0-f21e2615a94a)
+## paso 3 
 
-ingresamos y veremos la siguinete estructura 
+una ves clonado el repositorio iremos al directorio raiz y aresmos un listado con ls en sistemas linux o dir en sistemas windows 
 
-![image](https://github.com/EzeAlarcon/tecnica-ccl/assets/138638611/a7724fa6-ee4d-4406-9af8-ef423108d8c3)
+![image](https://github.com/EzeAlarcon/tecnica-ccl/assets/138638611/bf3a9994-5ea0-47f7-8a05-0b70a8546d5e)
 
-una vez a dentro en el apartado superior pondras cmd para que te abra la terminal ya iniadop en el directorio raiz 
+veras algo similar como la ilustracion grafica una vez detectemos los servicios iremos al servicio del frontend que es este 
 
-# Importante instalar dependencias necesarias con npm i p yarn install 
+![image](https://github.com/EzeAlarcon/tecnica-ccl/assets/138638611/f56559ba-ac95-4c31-9151-a0a2f754bd57)
 
-y ejecutar con npm start o yarn start para que en segundo plano ejecute lo que es el servicio del front te debera aparecer algo asi 
+una vez estemos en la ubicacion o direcctorio raiz del servicio de front en Angular instalaremos lo que es npm i como se evidencia en la ilustracion grafica acontinuacion 
 
-![image](https://github.com/EzeAlarcon/tecnica-ccl/assets/138638611/35ae0579-82a1-4c1c-b02d-0b6f62aafece)
+![image](https://github.com/EzeAlarcon/tecnica-ccl/assets/138638611/f81614c9-eefb-469a-85db-8fded7a1c036)
 
-ya para finalizar ejecutares nuestra api en C# 
+una vez instalado levantamos servico 
 
-![image](https://github.com/EzeAlarcon/tecnica-ccl/assets/138638611/3b796dbf-8f6b-43f4-9ae8-b2cf57f4ae16)
+## LEVANTAMIENTO DEL SERVICIO CON EL COMANDO NPM START
 
-una vez lo ejecutamos nos abrira una ventana en donde nos indicara que va a ejecutar la version mas actual oprimimos si y una vez este se ejecutara y nos llevara de manera directa al sistema web del miniinventario
+![image](https://github.com/EzeAlarcon/tecnica-ccl/assets/138638611/6550a035-a118-4697-9ee2-bb9aa28dbf53)
 
-# importante 
 
-No olvidar la cadena de conexon esta la encuentras en el archivo appsettings.json 
+## LEVANTAMIENTO DEL SERVIO API EN NETCORE 7 CON EL COMANDO DOTNET BUIL
 
-![image](https://github.com/EzeAlarcon/tecnica-ccl/assets/138638611/1e8301f9-4fcf-4446-baf5-f7c587a6943f)
+![image](https://github.com/EzeAlarcon/tecnica-ccl/assets/138638611/77c7ada1-6103-40ca-9258-1b533baf59fc)
 
-# Resultado Final
+Este comando ejecutara y verificara que todo este en orden una vez todo este en orden nos dara una noticia de ejecutado con exito 
 
-![image](https://github.com/EzeAlarcon/tecnica-ccl/assets/138638611/db28b169-bc8d-47ad-9b50-5ef3a047a074)
+## EJECUCION RUN CON EL COMANDO DOTNET RUN
+
+![image](https://github.com/EzeAlarcon/tecnica-ccl/assets/138638611/7cb9d519-fa99-4272-8d49-093a4ef548b0)
+
+Una vez tengamos este comando lo ejecutamos dando enter y este levantara el servicio 
+
+![image](https://github.com/EzeAlarcon/tecnica-ccl/assets/138638611/80866e46-4221-404e-a781-06fdc9bd1d64)
+
+## IMPORTANTE TENER LOS PERTOS LIBRES PARA SU CORRECTA EJECUCUION 
+
+## API NETCORE 7.0 + POSTGRESQL 
+
+![image](https://github.com/EzeAlarcon/tecnica-ccl/assets/138638611/f4e7dc17-899b-4f61-a569-1d59a22ca617)
+![image](https://github.com/EzeAlarcon/tecnica-ccl/assets/138638611/d8381256-4b0f-4ec6-9f76-9f9d1450092d)
+
+## FrontEnd Angular
+
+![image](https://github.com/EzeAlarcon/tecnica-ccl/assets/138638611/ab55ef32-4314-48cc-b35b-da8c465af8a6)
 
 
 
